@@ -7,7 +7,7 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
+    title: "e-Learning platform ",
     description: "Project 1 description",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
@@ -16,7 +16,7 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
+    title: "Educational Directory",
     description: "Project 2 description",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
@@ -45,7 +45,7 @@ const projectsData = [
     id: 5,
     title: "React Firebase Template",
     description: "Authentication and CRUD operations",
-    image: "/images/projects/5.png",
+    image: "/images/projects/5.png", 
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
